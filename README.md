@@ -12,7 +12,8 @@ STEP:4 Type the File Name and Click Next and then finish button. Type the code a
 STEP:5 Select the Behavioural Simulation in the Source Window and click the check syntax.<br>
  STEP:6 Click the simulation to simulate the program and give the inputs and verify the outputs as per the truth table.
  ## 2- BIT MULTIPLIER
- ![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_3/assets/160568654/6c786cd7-1dbf-4a6f-838b-bc63cc530f23)
+ 
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-3/assets/160568654/0cf029d5-c7b5-4ca8-bc7a-a22bc38d8f09)
 
 
 ## PROGRAM:
@@ -34,13 +35,14 @@ endmodule
                       
 ## OUTPUT:               
                    
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_3/assets/160568654/e4ca9f4a-7f04-436d-8193-ecdf601858bd)
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-3/assets/160568654/89cc04af-d18e-4bad-96c0-3b5f957f7b48)
 
 
 
 ## 4- BIT MULTIPLIER:
 
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_3/assets/160568654/ab2bb781-dd58-452c-8f3b-88c8248eb1bd)
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-3/assets/160568654/bdc97fd0-d90a-4bea-ab76-c4570a732452)
+
 
 ## PROGRAM:
 module ha(a,b,sum,carry);<br>
@@ -78,7 +80,9 @@ endmodule
                                                                                                                                                                                                             
 
 ## OUTPUT:
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_3/assets/160568654/c5a50a1d-8aa5-4db6-9e24-90a597cdcd4a)
+
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-3/assets/160568654/8cfd56ab-2860-458b-bc7d-575e9482aa48)
+
 
 ## RESULT:
 	The simulate and synthesis multiplier using VIVADO is successfully verified.
